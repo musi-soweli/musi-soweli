@@ -42,6 +42,11 @@ If a *pipi* on `l4` stacks on top of a piece on `j4`, it would be notated as `l4
 If a *kijetesantakalu* carries a *kili* to `k1`, it would be notated as `Uk1+`.
 If a *kili* promotes to a kijetesantakalu on `k1`, it would be notated, it would be notated as `k1=U`.
 
+## Passing
+
+A pass of a turn is notated with simply the word `Pass`.
+`(some notation here) 27. Pass Pass 28. Pass (1)-(1)`
+
 ## Starting position
 
 `0.` indicates the starting position. Because *musi soweli* allows for unique arrangement of the pieces in the back rank, this must be specified in the notation. Additionally, different *kili* counts are notated *before* the arrangement of pieces per side.
