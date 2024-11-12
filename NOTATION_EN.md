@@ -1,4 +1,4 @@
-# musi soweli Notation
+# Muso Notation
 
 Inspired by Algebraic Chess Notation!
 
@@ -16,7 +16,7 @@ A square is notated with the file followed by the rank, with the bottom left cor
 
 ## Pieces
 
-*musi soweli* has 7 pieces, with 5 of them being unique. The piece letter precedes the file and rank position. The following are the corresponding notations for the pieces:
+*Muso* has 7 pieces, with 5 of them being unique. The piece letter precedes the file and rank position. The following are the corresponding notations for the pieces:
 pipi = `p`
 akesi = `A`
 kala = `K`
@@ -24,13 +24,13 @@ kijetesantakalu = `U`
 waso = `W`
 soweli = `S`
 
-All moves must be notated with the origin space first and then the destination space after. This is to prevent the numerous notation ambiguities that arise when notating *musi soweli*.
+All moves must be notated with the origin space first and then the destination space after. This is to prevent the numerous notation ambiguities that arise when notating *Muso*.
 
 Notating the piece is optional. If notating the piece, put it before the origin space.
 
 ## Actions
 
-There are four basic actions in *musi soweli*. The action follows the file and rank position of a piece. The following are the corresponding notations for the actions:
+There are four basic actions in *Muso*. The action follows the file and rank position of a piece. The following are the corresponding notations for the actions:
 
 Capturing = `x` after origin space and but before the destination space
 Stacking = `^` after the destination space
@@ -51,7 +51,7 @@ A pass of a turn is notated with simply the word `Pass`.
 
 ## Starting position
 
-`0.` indicates the starting position. Because *musi soweli* allows for unique arrangement of the pieces in the back rank, this must be specified in the notation. Additionally, different *kili* counts are notated *before* the arrangement of pieces per side.
+`0.` indicates the starting position. Because *Muso* allows for unique arrangement of the pieces in the back rank, this must be specified in the notation. Additionally, different *kili* counts are notated *before* the arrangement of pieces per side.
 
 Example without *kili*: `0. AUSWK KWSUA`
 Example with *kili*: `0. 5 AUSWK KWSUA`

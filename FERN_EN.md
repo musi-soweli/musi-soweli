@@ -2,7 +2,7 @@
 
 **This document is an active work in progress, and is written by a community member, *Walrus*.**
 
-FEN notation is a system to turn a chess board state into a string of text. FERN (Forsyth-Edwards-[the creator's, walrus, last name] Notation) is a similar system for *musi soweli*. As is, FERN only works for two-player games.
+FEN notation is a system to turn a chess board state into a string of text. FERN (Forsyth-Edwards-[the creator's, walrus, last name] Notation) is a similar system for *Muso*. As is, FERN only works for two-player games.
 
 A FERN string consists of 5 parts appended together. the positions of the pieces, the pieces each side has available to them, the kili left on each kasi space, whose turn it is, and the turn count. A space separates each part.
 
