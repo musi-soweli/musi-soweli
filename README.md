@@ -32,3 +32,8 @@ House rules are encouraged, and experimentation is part of the fun.
 
 People talk about *Muso* on GitHub Discussions and on Discord.
 [Join our Discord here!](https://discord.gg/PFsEAP8U8B)
+
+Tabletop Simulator links:
+[Muso](https://steamcommunity.com/sharedfiles/filedetails/?id=2832525511)
+[Muso pi jan mute](https://steamcommunity.com/sharedfiles/filedetails/?id=3275528903)
+[muso kawa](https://steamcommunity.com/sharedfiles/filedetails/?id=3364913184)
