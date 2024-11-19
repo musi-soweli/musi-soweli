@@ -16,6 +16,11 @@ o musi lon nasin sina!
 jan li toki e *musi Muso* lon ma GitHub anu ma Discord.
 [sina wile lon ma Discord pi musi soweli la o luka e toki ni!](https://discord.gg/PFsEAP8U8B)
 
+lupa pi musi Tabletop Simulator:
+[Muso](https://steamcommunity.com/sharedfiles/filedetails/?id=2832525511)
+[Muso pi jan mute](https://steamcommunity.com/sharedfiles/filedetails/?id=3275528903)
+[muso kawa](https://steamcommunity.com/sharedfiles/filedetails/?id=3364913184)
+
 ## English
 
 *Muso* is a chess-like board game about the struggle for survival with limited resources.
